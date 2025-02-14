@@ -1,3 +1,4 @@
-# myRscripts
+**R Scripts written for Bioinformatics**
 
-Useful R scipts created during work
+2seriesgraph.R - to play a scatterplot with 2 series
+pca.R - Principal Component Analysis 
